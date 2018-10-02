@@ -1,1 +1,1 @@
-# warhouse-example
+# warehouse-example
