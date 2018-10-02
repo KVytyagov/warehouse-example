@@ -1,0 +1,19 @@
+{
+  "name": "kvytyagov/warehouse-example",
+  "type": "library",
+  "description": "Example for warehouse implementation",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "KVytyagov\\WarehouseExample\\": ""
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "KVytyagov\\WarehouseExample\\": ""
+    }
+  }
+}
